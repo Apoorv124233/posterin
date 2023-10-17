@@ -1,0 +1,22 @@
+.oyehoye{
+    margin-left: 460px;
+    margin-top: 79px;
+    border: 10px solid black;
+}
+h1{
+    margin-left: 490px;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-weight: 200;
+    background-color: pink;
+    /* text-align: center; */
+    text-transform: uppercase;
+}
+p{
+    margin-left:  445px;;
+    font-size: 25px;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    background-color: bisque;
+}
+html{
+    background-color: antiquewhite;
+}
